@@ -1,0 +1,275 @@
+.sayt{
+
+}
+.bolim1{
+    margin-top: 50px;
+}
+.qator1{
+    float: left;
+    margin-left: 300px;
+}
+.i{
+    float: left;
+}
+.um{
+    float: left;
+}
+.um b{
+    font-size: 23px;
+    color: limegreen;
+}
+.um strong{
+    font-size: 23px;
+}
+.qator2{
+    float: right;
+    margin-right: 500px;
+    padding-right: 20px;
+    margin-top: 20px;
+
+}
+.qator2 a{
+    margin-right: 40px;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+}
+.qator2 :hover{
+    background-color: limegreen;
+    border-radius: 10px;
+}
+.bolim2{
+    margin-left: 100px;
+}
+.bolim2{
+    font-size: 40px;
+}
+.bolim2  strong{
+    color: limegreen;
+}
+.m{
+    margin-left: 350px;
+    border-bottom: 1px dotted black;
+    width: 870px;
+    height: 60px;
+}
+.z{
+    /* margin-left: 50px; */
+}
+.z b{
+    font-size: 20px;
+    margin-left: 110px;
+}
+.z strong{
+    margin-left: 130px;
+     
+}
+.bolim3{
+    float: left;
+}
+.qator3{
+    float: left;
+}
+.qator4{
+    float: left;
+
+    
+}
+.qator4 b{
+    margin-left: 130px;
+}
+.box1{
+    margin-left: 300px;
+    padding-right: 30px;
+}
+.box1 img{
+    margin-left: 70px;
+}
+.cl{
+    clear: both;
+}
+.cle{
+    clear: both;
+}
+.qator5 b{
+    margin-top: 30px;
+    margin-left: 300px;
+    font-size: 30px;
+}
+.qator5 strong{
+    color: green;
+    font-size: 30px;
+}
+.qator6{
+    float: left;
+    margin-left: 180px;
+    /* padding: 20px 0px 0px 100px; */
+    margin-top: 20px;
+
+}
+.qator6 img{
+    float: left;
+    
+}
+.qator6 b{
+    font-size: 30px;
+    /* margin-left: 20px; */
+    
+}
+.qator6 button{
+    width: 70px;
+    background-color: limegreen;
+    color: white;
+    border: none;
+    /* margin-left: 20px; */
+}
+.qator6 input{
+    width: 90px;
+    background-color: limegreen;
+    color: white;
+    border: none;
+}
+.ss{
+    padding-left: 50px;
+    width: 300px;
+    float: left;
+}
+.bolim4{
+    float: left;
+    
+    
+}
+/* .ss{
+    padding-left: 10px;
+    float: left;
+} */
+.qator6{
+    border: 1px solid grey;
+    
+}.qator7 b{
+    margin-top: 50px;
+    margin-left: 300px;
+    font-size: 30px;
+}
+.qator7 strong{
+    color: green;
+    font-size: 30px;
+}
+.c{
+    clear: both;
+}
+.qator8{
+    float: left;
+    margin-left: 175px;
+    /* padding-left: 200px; */
+}
+.z{
+    clear: both;
+}
+.bolim6{
+    width: 1500px;
+    height: 300px;
+    float: left;
+    padding: 0px 0px 0px 180px;
+}
+.box5{
+    float:left;
+    width: 20%;
+    height:500px ;
+    padding: 20px;
+}
+.box5 p{
+    width: 300px;
+}
+.box5 b{
+    font-size: 25px;
+}
+.box5 img{
+    /* padding-left: 10px; */
+    margin-right: 10px;
+}
+.box6{
+    float: left;
+    width: 20%;
+    height: 500px;
+    padding: 20px;
+
+}
+.box6 strong{
+    /* border-bottom: dotted black;  */
+    /* height: 150px; */
+    width: 100%;
+}
+.box6 b{
+    font-size: 25px;
+}
+.box7{
+    float: left;
+    width: 20%;
+    height: 500px;
+    padding: 20px;
+    
+}
+.box7 b{
+    font-size: 25px;
+}
+.box8{
+    float: left;
+    width: 20%;
+    height: 500px;
+    padding: 20px;
+
+}
+.qwe{
+    float: left;
+    line-height: 30px;
+}
+.qwe img{
+    float: left;
+    margin-right: 15px;
+    
+}
+.qwe strong{
+    /* float: left;     */
+    /* margin-top: 5px; */
+    margin-right: 10px;
+    
+}
+.box8 input{
+    background-color: rgb(221, 226, 231);
+    margin-top: 20px;
+    width: 350px;
+    height: 30px;
+    border: none;
+    border-bottom: 1px solid;
+}
+.box8 button{
+    width: 80px;
+    height: 40px;
+    float: right;
+    margin-right: 5px;
+    margin-top: 20px;
+    background-color: limegreen;
+    border: none;
+}
+.box8 b{
+    font-size: 25px;
+}
+.t{
+    clear: both;
+}
+.end{
+    width: 1800px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    line-height: 30px;
+    margin-left: 10px;
+}
+.end b{
+    margin-left: 200px;
+}
+.end strong{
+    float: right;
+    margin-right: 200px;
+}
